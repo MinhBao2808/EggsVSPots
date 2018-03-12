@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{97136C65-A3E0-9D6F-635A-B139D898E1D0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayServicesResolver/proguard-messaging-workaround.txt">
+    <Files>
+      <File FileName="Assets/Scripts/CupCollector.cs" Line="1" Column="1" />
+      <File FileName="Assets/SplashScreen/NextScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AdsController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveCup.cs" Line="25" Column="39" />
+      <File FileName="Assets/Scripts/EggJump.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShopController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BackGroundColletor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CoinManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GetPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UnityAdsController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CheckIpad.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnterGameManager.cs" Line="83" Column="1" />
+      <File FileName="Assets/Scripts/CheckButtonIpad.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="2" Column="116" />
+      <File FileName="Assets/PlayServicesResolver/proguard-messaging-workaround.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Egg_227s_220N_220Pot PreferredExecutionTarget="Unity.Editor" />
+</Properties>

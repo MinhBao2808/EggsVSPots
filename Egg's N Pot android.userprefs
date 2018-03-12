@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{13AEB42F-16F3-DFA8-2B60-39BD4CC2B6CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnterGameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnterGameManager.cs" Line="51" Column="86" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Egg_227s_220N_220Pot_220android PreferredExecutionTarget="Unity.Editor" />
+</Properties>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egg's N Pot android", "Egg's N Pot android.csproj", "{13AEB42F-16F3-DFA8-2B60-39BD4CC2B6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egg's N Pot android.Editor", "Egg's N Pot android.Editor.csproj", "{ADBC909D-09A7-FEA4-9446-BE3B4FE06847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13AEB42F-16F3-DFA8-2B60-39BD4CC2B6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AEB42F-16F3-DFA8-2B60-39BD4CC2B6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AEB42F-16F3-DFA8-2B60-39BD4CC2B6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AEB42F-16F3-DFA8-2B60-39BD4CC2B6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBC909D-09A7-FEA4-9446-BE3B4FE06847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBC909D-09A7-FEA4-9446-BE3B4FE06847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBC909D-09A7-FEA4-9446-BE3B4FE06847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBC909D-09A7-FEA4-9446-BE3B4FE06847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
